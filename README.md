@@ -1,50 +1,48 @@
-# 🏛️ BPSDM-PROJECT
+# 🏛️ BPSDM-PROJECT – DESAIN UI/UX SISTEM INFORMASI PELATIHAN ASN
 
-> **Desain UI/UX untuk Sistem Informasi BPSDM**  
-> _"Mendekatkan layanan pelatihan dan pengembangan SDM dalam genggaman."_
-
----
-
-## 🎯 Tujuan Proyek
-Proyek ini bertujuan untuk menciptakan pengalaman pengguna yang:
-- 🔄 **Responsif** — Cocok untuk berbagai perangkat, dari smartphone hingga desktop.
-- 👥 **User-Friendly** — Navigasi jelas, layout bersih, dan mudah digunakan oleh ASN/non-ASN.
-- 🌈 **Korporat & Profesional** — Palet warna dan font menyesuaikan branding BPSDM.
-- 🛡️ **Aksesibel** — Sesuai standar aksesibilitas untuk inklusivitas pengguna.
+BPSDM-PROJECT adalah desain antarmuka aplikasi mobile/web untuk layanan pelatihan ASN yang modern, ramah pengguna, dan berbasis kebutuhan instansi pemerintahan. Desain ini dibuat dengan pendekatan **user-centered design** menggunakan Figma, dan siap diimplementasikan ke dalam aplikasi nyata.
 
 ---
 
-## 🎨 Highlight Desain
-| Komponen | Deskripsi |
-|----------|-----------|
-| 🔍 Search Bar | Pencarian cepat berdasarkan tema pelatihan |
-| 🧭 Navigasi Bawah | Ikon simpel & responsif: Home, Pelatihan, Notifikasi, Akun |
-| 🗓️ Kegiatan Terkini | Informasi terbaru dalam bentuk kartu UI |
-| 📚 Kategori | Kalender, Produk Hukum, Pengumuman, Sistem Informasi |
-| 📷 Carousel | Banner pelatihan dengan CTA langsung ke pendaftaran |
+## 🔑 FITUR UTAMA (DALAM DESAIN)
+🔍 **Search Bar Dinamis** – Cari pelatihan atau tema dengan cepat dan mudah  
+🗓️ **Kegiatan Terkini** – Menampilkan kegiatan pelatihan yang sedang berlangsung atau akan datang  
+📚 **Kategori Navigasi** – Kalender, Produk Hukum, Pengumuman, Sistem Informasi  
+📷 **Carousel Promosi** – Banner interaktif berisi informasi diklat & CTA langsung ke pendaftaran  
+🧭 **Navigasi Bawah** – Ikon modern: Beranda, Pelatihan, Notifikasi, Akun  
+👤 **Profil ASN/Non-ASN** – Tampilan informasi pengguna dan riwayat pelatihan  
 
 ---
 
-## 🛠️ Tools & Teknologi Desain
-- 🎨 **Figma** — Prototyping, layout, dan komponen reusable
-- 📱 **Flutter UI (optional)** — Implementasi desain secara native
-- 🧩 **Design System** — Typography, spacing, dan shadow hierarchy
-- 📏 **Grid & Auto Layout** — Responsive alignment antar elemen
+## ⚙️ TEKNOLOGI YANG DIREKOMENDASIKAN
+🎨 **Desain**: Figma UI Design  
+📱 **Frontend**: Flutter / React Native  
+🖥️ **Web View** (opsional): Laravel Blade / Next.js  
+🧠 **Design System**: Typography, warna korporat, grid system  
+📏 **Auto Layout & Responsiveness**: Desain adaptif untuk berbagai perangkat  
+💳 **Integrasi Opsional**: Midtrans untuk pembayaran, RajaOngkir untuk pengiriman sertifikat  
 
 ---
 
-## 🔗 Tautan Proyek
->(https://www.figma.com/file/EXAMPLE/BPSDM-PROJECT)](https://www.figma.com/proto/x0b6Qu0hkkULPZTBH7cebj/BPSDM-PROJECT?page-id=0%3A1&node-id=24-60&p=f&viewport=618%2C905%2C0.22&t=ZNGVyVbcga9OSstl-1&scaling=scale-down&content-scaling=responsive&starting-point-node-id=24%3A53&show-proto-sidebar=1)
+## 🔗 LINK DESAIN
+📌 [Lihat Prototipe di Figma](https://www.figma.com/proto/x0b6Qu0hkkULPZTBH7cebj/BPSDM-PROJECT?page-id=0%3A1&node-id=24-60&p=f&viewport=618%2C905%2C0.22&t=ZNGVyVbcga9OSstl-1&scaling=scale-down&content-scaling=responsive&starting-point-node-id=24%3A53&show-proto-sidebar=1)
 
 ---
 
-## 👨‍🎨 Designer's Note
-Desain ini dikembangkan dengan memperhatikan masukan stakeholder BPSDM, serta mengadopsi prinsip-prinsip _Human Interface Guidelines_ dan _Material Design 3_ untuk memastikan antarmuka yang modern dan fungsional.
+## ⚠️ PERHATIAN!
+Produk ini tidak untuk diperjualbelikan. Desain ditujukan hanya untuk:
+- 🎓 Pembelajaran
+- 🧪 Proyek pengembangan UI/UX
+- 💼 Portofolio pribadi/non-komersial
+
+Jika Anda menemukan penyalahgunaan desain untuk tujuan komersial tanpa izin, mohon laporkan untuk ditindaklanjuti.
 
 ---
 
-## 📜 Lisensi
-Distributed under the MIT License. See `LICENSE` for more information.
+## 💡 TERIMA KASIH
+Terima kasih telah mendukung pengembangan desain UI/UX publik yang terbuka, edukatif, dan bermanfaat bagi semua.
 
 ---
 
+## 📜 LISENSI
+MIT License © 2025 – BPSDM UI/UX Design by Olee04
