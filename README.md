@@ -5,12 +5,6 @@
 
 ---
 
-## 📱 Preview Tampilan
-
-<img src="https://github.com/USERNAME/BPSDM-PROJECT/blob/main/assets/ui/Home.png" alt="BPSDM UI Preview" width="300" />
-
----
-
 ## 🎯 Tujuan Proyek
 Proyek ini bertujuan untuk menciptakan pengalaman pengguna yang:
 - 🔄 **Responsif** — Cocok untuk berbagai perangkat, dari smartphone hingga desktop.
